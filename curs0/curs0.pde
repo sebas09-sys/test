@@ -14,5 +14,5 @@ void setup(){
  n1.jugar(h1.getMano());
  h1.setNombre("Jairo");
  String nombre = h1.getNombre();
- println(nombre);
+ //println(nombre);
 }
